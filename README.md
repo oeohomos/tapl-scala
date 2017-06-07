@@ -142,3 +142,14 @@ See code for calculation of `meet` and `join` of two references.
 3. It will be interesting to add implementation of dependent types from the sequel book "Advanced Topics in Types and Programming Languages". 
 The book mentions OCaml implementation `deptypes` but I did not find this implementation on the web.
 4. I have noticed that some cases (in typers and evaluators) were omitted in the original code.
+
+
+## Scala-js
+
+Inside sbt: `fastOptJS`, then open `index.html`.
+
+UI with holes/commands. - smth like literate programming
+
+Old style vintage editors?
+
+Or something with old school vintage UI?
